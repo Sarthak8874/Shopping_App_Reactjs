@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import React from "react";
 import Cart from "./Components/Cart";
 function App() {
+  console.log("hello");
   return (
     <>
       
